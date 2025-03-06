@@ -23,13 +23,6 @@
         "format": [
           "h5"
         ],
-        "compatible_packages": [
-          {
-            "name": "test",
-            "version": "0.0.1",
-            "additional_info": "test"
-          }
-        ],
         "additional_info": [
           {"test": "test"}
         ]
